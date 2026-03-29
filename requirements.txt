@@ -7,3 +7,4 @@ pytchat==0.5.5
 Sastrawi==1.0.1
 scikit-learn==1.6.1
 seaborn==0.13.2
+TikTokLive==6.6.5
